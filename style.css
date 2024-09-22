@@ -1,0 +1,120 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 29px;
+}
+a{
+  text-decoration: none;
+  color:blue;
+}
+
+#navbar{
+    padding: 10px;
+    width: 90vw;
+    margin:auto;
+    top: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    }
+
+#navbar div a
+{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right:15px; 
+}
+    
+#navbar div a:hover{
+ color: rgb(255, 0, 0);
+}
+
+#navbar div i{
+    padding: 3px 10px;
+    color: rgb(255, 0, 0);
+    border:none;
+    font-size: 40px;
+    border-radius: 10px;
+}
+
+.landing{
+    display: grid;
+    grid-template-columns: auto auto;
+    height: 100vh;
+    width: 90vw;
+    margin: auto;
+    align-items: centre;
+    justify-content: space-around;
+}
+
+.landing div{
+    width: 45vw;
+}
+.landing .right{
+    border-radius: 15px;
+    text-align: center;
+}
+.landing p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: brown;
+}
+.landing img{
+    height: 60vh;
+}
+.landing h1{
+    color: brown;
+}
+.landing h4{
+    color:brown;
+}
+
+h3{
+    text-align: center;
+    color: blueviolet;
+}
+
+.levels p{
+    text-align: center;
+}
+.levels li{
+    text-align: center;
+}
+.contact p{
+    text-align: center;
+    color: darkslateblue;
+}
+.contact h2{
+    text-align: center;
+    color: blue;
+}
+.contact p:hover{
+    color: fuchsia;
+}
+.footer{
+    background-color: rgb(34, 34, 34);
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap:10px;
+}
+
+.footer a{
+    color: white;
+}
+
+.footer a:hover{
+    color: rgb(255, 0, 0);
+}
+
+
+
+
+
