@@ -12,7 +12,7 @@ The application includes a  landing page showing what i do, my education backgro
 * And you are all done
 
 ## Live server
-* You can view the web live on [Portfolio](https://github.com/cutie-sudo/Portfolio.github.io/)
+* You can view the web live on [Portfolio](https://cutie-sudo.github.io/Portfolio.github.io/)
 
 ## Known Bugs
 The application works perfectly well, no bugs.
