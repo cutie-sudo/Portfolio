@@ -12,7 +12,7 @@ The application includes a  landing page showing what i do, my education backgro
 * And you are all done
 
 ## Live server
-* You can view the web live on [Portfolio](https://k-koech.github.io/portfolio-sdft11/)
+* You can view the web live on [Portfolio](https://github.com/cutie-sudo/Portfolio.github.io/)
 
 ## Known Bugs
 The application works perfectly well, no bugs.
@@ -24,7 +24,6 @@ HTML, CSS , Fontawesome icons, GIT
 email :: ngulifaith1@gmail.com
 
 ### License
-*LIcenced under the [MT-licence](https://github.com/k-koech/portfolio-sdft11/blob/master/LICENSE.md)*
+*LIcenced under the [MT-licence](https://github.com/cutie-sudo/Portfolio.github.io/blob/main/LICENSE.md*)
 
-Copyright (c) 2024 **Faith Nguli**# Portfolio
-# Portfolio
+Copyright (c) 2024 **Faith Nguli**
